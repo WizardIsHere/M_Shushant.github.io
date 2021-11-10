@@ -237,6 +237,10 @@ html {
   .contact-form textarea {
     width: 100%;
   }
+.links{
+  display: flex;
+}
+
 }
 
 /*-----------------------------------*/
